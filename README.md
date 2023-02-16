@@ -31,7 +31,7 @@ To add an item to your inventory, use the add command followed by the name of th
 To remove an item from your inventory, use the remove command followed by the name of the item:
 
 
-Check the screenshot  too how use the program
+Check the screenshot here too too how use the program, you can see all all the file contain program on master branch
 
 
 
