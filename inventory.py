@@ -1,4 +1,4 @@
-# ========The beginning of the class==========
+# ========The beginning of the class========
 class Shoe:
 
     def __init__(self, country, code, product, cost, quantity):
